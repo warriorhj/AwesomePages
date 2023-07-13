@@ -1,0 +1,22 @@
+body{
+    background: url('../../../public/506370.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.login-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    background-color: whitesmoke;
+    width: 400px;
+    height: 400px;
+    border-radius: 25px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
